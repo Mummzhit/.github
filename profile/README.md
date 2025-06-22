@@ -9,7 +9,7 @@
 - 입력 데이터 기록 및 관리  
 - 인공지능 기반 분석 기능은 추후 업데이트 예정  
 
-## 설치 방법
+## 설치 방법 (frontend 기준)
 1. 저장소 클론  
    ```bash
    git clone https://github.com/사용자명/멈칫.git
